@@ -10,7 +10,7 @@ y > x = z
 
  */
 
-// change class name to Main when you submit it to Codechef
+// change class name to 'Main' when you submit it to Codechef
 public class Solution {
 
 	public static void main(String[] args) {
